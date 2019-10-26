@@ -16,7 +16,7 @@ const DewaAriandy = () => {
 
   return (
     <div style={containerStyle}>
-        <h2>Data Profil : </h2>
+        <h2>Data Profil: </h2>
         <p>Nama : {data.nama}</p> 
         <p>Facebook : {data.fb} </p>
         <p>Github : {data.github}</p>
